@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889102950176",
+    "project_id": "c-work-3c070",
+    "storage_bucket": "c-work-3c070.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889102950176:android:02e284b8bb610838a94145",
+        "android_client_info": {
+          "package_name": "com.example.c_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889102950176-hvd6e8ufbm74q6925dn5kc869thanvac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWg1t7UqqsK9Z02G9InO9CtvQhnr2gI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889102950176-hvd6e8ufbm74q6925dn5kc869thanvac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
